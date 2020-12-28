@@ -1,2 +1,2 @@
-[![Achaak's github stats](https://github-readme-stats.vercel.app/api?username=Achaak&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Achaak's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Achaak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Achaak's github stats](https://github-readme-stats.vercel.app/api?username=Achaak&show_icons=true&theme=radical&title_color=ffb134&text_color=6fa5e6&icon_color=ffbf78&bg_color=1a1c30&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Achaak's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Achaak&show_icons=true&theme=radical&title_color=ffb134&text_color=6fa5e6&icon_color=ffbf78&bg_color=1a1c30&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
