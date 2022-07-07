@@ -18,6 +18,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
 |                                                                     Achaak's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Achaak's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Achaak&theme=react-dark&hide_border=true&area=true) |
