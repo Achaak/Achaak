@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/axellavoie/" target="blank"><img align="center" src="https://img.shields.io/badge/Axel Lavoie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:axel.lavoie@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/axel.lavoie@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Achaak" target="blank"><img align="center" src="https://img.shields.io/badge/Achaak-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/axellavoie/" target="blank"><img align="center" src="https://img.shields.io/badge/Axel Lavoie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:axel.lavoie@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/axel.lavoie@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.axel-lavoie.fr" target="blank"><img align="center" src="https://img.shields.io/badge/My_website-2daa83?style=for-the-badge&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Achaak" target="blank"><img align="center" src="https://img.shields.io/badge/Achaak-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ## :sassy_man:  About me
