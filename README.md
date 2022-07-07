@@ -16,8 +16,11 @@
 
 <br/>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 |                                                                     Achaak's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Achaak's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Achaak&theme=react-dark&hide_border=true&area=true) |
 | [![Achaak's github stats](https://github-readme-stats.vercel.app/api?username=Achaak&show_icons=true&theme=radical&title_color=ffb134&text_color=6fa5e6&icon_color=ffbf78&bg_color=1a1c30&hide_border=true&count_private=true)](https://github.com/Achaak/Achaak)              | 
 | [![Achaak's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Achaak&layout=compact&show_icons=true&theme=radical&title_color=ffb134&text_color=6fa5e6&icon_color=ffbf78&bg_color=1a1c30&hide_border=true&count_private=true)](https://github.com/Achaak/Achaak)                   | 
+</detail>
